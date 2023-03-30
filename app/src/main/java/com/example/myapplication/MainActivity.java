@@ -20,6 +20,9 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    // SECOND COMMIT: COMMENTAIRE
+
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
