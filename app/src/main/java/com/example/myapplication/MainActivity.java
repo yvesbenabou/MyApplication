@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
+    // OK, logo added
     //ENCORE DES MODIFS AU DERNIER MOMENT
     @Override
     protected void onCreate(Bundle savedInstanceState) {
