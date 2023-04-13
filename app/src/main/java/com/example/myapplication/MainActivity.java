@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
 
     // super big feature 1
+    // and big feature 2
 
     // OK, logo added
     //ENCORE DES MODIFS AU DERNIER MOMENT
