@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
+    // super big feature 1
+
     // OK, logo added
     //ENCORE DES MODIFS AU DERNIER MOMENT
     @Override
